@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "users": [
+    {
+    "_id": "642932bccbfdd19cf423486d",
+    "name": "shivam",
+    "email": "shivam1@gmail.com",
+    "role": "user",
+    "createdAt": "2023-04-02T07:46:04.225Z",
+    "__v": 0
+    },
+    {
+    "_id": "6429375e1dca7090b5897c32",
+    "name": "shivam",
+    "email": "shivam2@gmail.com",
+    "role": "user",
+    "createdAt": "2023-04-02T08:05:50.272Z",
+    "__v": 0
+    },
+    {
+    "_id": "64296ac400c6196efdbb4820",
+    "name": "ravi",
+    "email": "ravi@gmail.com",
+    "role": "user",
+    "createdAt": "2023-04-02T11:45:08.096Z",
+    "__v": 0
+    },
+    {
+    "_id": "64296aeb00c6196efdbb4823",
+    "name": "Avinish",
+    "email": "avni@gmail.com",
+    "role": "user",
+    "createdAt": "2023-04-02T11:45:47.108Z",
+    "__v": 0
+    },
+    {
+    "_id": "64296b0900c6196efdbb4826",
+    "name": "shivam chaurasiya",
+    "email": "shivamchaurasiya@gmail.com",
+    "role": "user",
+    "createdAt": "2023-04-02T11:46:17.833Z",
+    "__v": 0
+    }
+    ]
+    }
